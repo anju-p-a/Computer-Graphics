@@ -1,6 +1,4 @@
-// Anju Puthenveetil
-// cs5410 hw3
-// date 12/08/2017
+
 #include "RGBpixmap.h"
 #include<GLUT/glut.h>
 #include <iostream>
